@@ -98,7 +98,7 @@ npm install
 
 ![Result Page-2](screenshots/resultpage2.png)
 
-![Result Page-3](screenshots/resultpage3.png)
+![Result Page-3](screenshots/resulpage3.png)
 
 ---
 
