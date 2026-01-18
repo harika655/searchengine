@@ -1,4 +1,3 @@
-import algoliasearch from 'algoliasearch';
 const client = algoliasearch("V4ABXLXWBF", "c6cec5384aeac5fd8eff1ab0a7b98398");
 const index = client.initIndex("search");
 
