@@ -105,6 +105,7 @@ npm install
 ## 🌐 Live Demo
 
 https://algolia-search-engine.netlify.app/
+https://harika655.github.io/searchengine/
 
 ---
 
@@ -122,5 +123,3 @@ Linkdin: (www.linkedin.com/in/harika-t-b1731b222)
 This project is created for **learning, practice, and portfolio showcase**.
 
 ```
-
----
