@@ -66,7 +66,7 @@ git clone https://github.com/harika655/searchengine.git
 2. Navigate to the project folder:
 
 ```bash
-cd search-engine-algolia
+cd searchengine
 ```
 
 3. Install dependencies:
